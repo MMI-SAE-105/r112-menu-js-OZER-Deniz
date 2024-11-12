@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : ozer
+- prénom : deniz
+- URL Netlify : https://r112-menu-js-ozer-deniz.netlify.app
 
 # Travail
 
